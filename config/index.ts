@@ -3,8 +3,8 @@ export const APP_ID = `${process.env.NEXT_PUBLIC_APP_ID}`
 export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
-  title: '祁劲松博客的聊天机器人 🤖 Chat APP',
-  description: '你好，我代表祁劲松欢迎你👏',
+  title: 'James Qis Chat APP',
+  description: 'Hello, Welcome',
   copyright: '',
   privacy_policy: '',
   default_language: 'zh-Hans',

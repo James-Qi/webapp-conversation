@@ -18,3 +18,14 @@ export const API_PREFIX = '/api'
 export const LOCALE_COOKIE_NAME = 'locale'
 
 export const DEFAULT_VALUE_MAX_LEN = 48
+
+#export const APP_INFO: AppInfo = {
+#  title: 'Chat APP',
+#  description: '',
+#  copyright: '',
+#  privacy_policy: '',
+#  default_language: 'zh-Hans'
+#}
+
+#export const isShowPrompt = true
+#export const promptTemplate = ''
